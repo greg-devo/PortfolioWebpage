@@ -1,0 +1,4 @@
+node_modules/
+
+# ignnore all .txt files
+*.txt

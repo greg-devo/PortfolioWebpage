@@ -1,0 +1,27 @@
+* {
+    font-family: "Arial Black";
+    font-size: 14px;
+    color: #0000ff;
+    background-color: #faebd7;
+}
+
+h2 {
+    font-size: 20px;
+    color: crimson;
+    font-family: "Comic Sans MS";
+}
+
+.stage_direction {
+    color: darkorchid;
+    font-size: 14px;
+    background-color: darkgrey;
+}
+
+#callout {
+    color: burlywood;
+    font-size: 1.5rem;
+}
+
+p {
+    text-indent: 100px;
+}
